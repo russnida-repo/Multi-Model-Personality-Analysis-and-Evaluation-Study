@@ -113,7 +113,7 @@ All report figures are stored in the `/figures` directory:
 | Figure 6 | Five-Phase Methodology |
 
 Browse figures here:  
-➡️ **[figures/](figures/)**
+➡️ **[figures/](https://github.com/russnida-repo/Multi-Model-Personality-Analysis-and-Evaluation-Study/tree/main/figures)**
 
 ### 🔍 Figures Preview (Thumbnails)
 
