@@ -15,7 +15,7 @@ Using a validated diagnostic prompt suite and multi-phase evaluation methodology
 - **DeepSeek-V2**
 - **Grok-4**
 
-The report characterizes reasoning styles, tone, epistemic posture, and meta-cognitive behavior, demonstrating that LLMs display stable, model-specific patterns under controlled conditions.
+The report characterizes reasoning styles, tone, epistemic posture, and meta-cognitive behavior, demonstrating that LLLMs display stable, model-specific patterns under controlled conditions.
 
 ---
 
@@ -43,7 +43,7 @@ The report characterizes reasoning styles, tone, epistemic posture, and meta-cog
 - 📄 **[PDF Version](docs/Multi-Model%20Personality%20Analysis%20and%20Evaluation%20Study.pdf)**
 - 📝 **[Markdown Version](docs/Multi-Model%20Personality%20Analysis%20and%20Evaluation%20Study.md)**
 - 🖊️ **[Word Version](docs/Multi-Model%20Personality%20Analysis%20and%20Evaluation%20Study.docx)**  
-- 🖼️ **[Figures Folder](figures/)**
+- 🖼️ **[Figures Folder](https://github.com/russnida-repo/Multi-Model-Personality-Analysis-and-Evaluation-Study/tree/main/figures)**
 
 ---
 
@@ -113,7 +113,7 @@ All report figures are stored in the `/figures` directory:
 | Figure 6 | Five-Phase Methodology |
 
 Browse figures here:  
-➡️ **[figures/](https://github.com/russnida-repo/Multi-Model-Personality-Analysis-and-Evaluation-Study/tree/main/figures)**
+➡️ **[Figures](https://github.com/russnida-repo/Multi-Model-Personality-Analysis-and-Evaluation-Study/tree/main/figures)**
 
 ### 🔍 Figures Preview (Thumbnails)
 
